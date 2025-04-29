@@ -1,0 +1,18 @@
+header(Reusable)
+   nav (Reusable)
+main   (Reusable)
+  aside (Reusable)
+  section (Unique for every page)
+footer  (Reusable)
+
+
+Reusable Component
+    src/components/ui
+
+Unividual pages
+  src/pages/Home
+
+
+Home
+Login
+Register
